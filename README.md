@@ -12,8 +12,8 @@ The app demonstrates basic concepts of database management and UI integration in
 The main goal of this project is to provide hands-on experience with Flutter database operations while keeping the UI straightforward and easy to navigate.
 
 ## Release / Download
-
-You can download the latest **APK** of the application from the [Releases](https://github.com/YourUsername/StoreApp/releases) section on GitHub.  
+## Download the App
+You can download the latest release of Store App from [here](https://github.com/YourUsername/StoreApp/releases).  
 
 ### Installation
 1. Download the APK file from the Releases page.
