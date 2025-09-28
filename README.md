@@ -13,7 +13,7 @@ The main goal of this project is to provide hands-on experience with Flutter dat
 
 ## Release / Download
 ## Download the App
-You can download the latest release of Store App from [here](https://github.com/YourUsername/StoreApp/releases).  
+You can download the latest release of Store App from [here](https://github.com/ERFANKASHEFI78/store_app/commits/v1.0.0).  
 
 ### Installation
 1. Download the APK file from the Releases page.
