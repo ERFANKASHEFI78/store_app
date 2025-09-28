@@ -1,16 +1,12 @@
-# store_app
+# Store App
 
-A new Flutter project.
+**Store App** is a practice application developed for **Farahoush Company** as part of my **second internship project** with the company. 
 
-## Getting Started
+The app demonstrates basic concepts of database management and UI integration in Flutter. Although the user interface is simple, the underlying code incorporates important database concepts.
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- **Shared Preferences** for local storage
+- **SQLite** for relational database management
+- **Hive** for lightweight NoSQL database storage
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The main goal of this project is to provide hands-on experience with Flutter database operations while keeping the UI straightforward and easy to navigate.
